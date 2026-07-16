@@ -774,7 +774,10 @@ console.log(imageUrl);
       <div className="sg-related-img-wrap">
         <img
           src={imageUrl}
-          loading="lazy"
+          loading="lazygit add .
+git commit -m "Initial commit"
+git branch -M main
+git push -u origin main"
           className="sg-related-img"
           alt={product.name}
           onError={(e) => (e.target.src = "https://via.placeholder.com/200x300?text=No+Image")}
