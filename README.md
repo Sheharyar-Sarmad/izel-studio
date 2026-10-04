@@ -11,7 +11,7 @@
 
 ## 🌟 Overview
 
-**[IzelStudio](izelstuio.store)** is a budget-friendly e-commerce web application built with the MERN stack (MongoDB, Express.js, React, Node.js). It provides complete CRUD operations for product management, shopping cart functionality, order processing, and an admin dashboard.
+**[IzelStudio](https://www.izelstudio.store/)** is a budget-friendly e-commerce web application built with the MERN stack (MongoDB, Express.js, React, Node.js). It provides complete CRUD operations for product management, shopping cart functionality, order processing, and an admin dashboard.
 
 ---
 
