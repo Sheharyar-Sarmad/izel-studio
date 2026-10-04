@@ -1,6 +1,6 @@
 # 🛍️ IzelStudio.Store
 
-> Simple CRUD e-commerce platform built with MERN stack. Product management, shopping cart, order processing & admin dashboard.
+> Simple CRUD e-commerce platform built with MERN stack. Product management using admin dashboard.
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-4.4+-green.svg)](https://www.mongodb.com/)
 [![Express](https://img.shields.io/badge/Express-4.18+-blue.svg)](https://expressjs.com/)
@@ -40,8 +40,7 @@
 | React 18+ | UI framework |
 | React Router | Navigation |
 | Axios | API calls |
-| Bootstrap/Tailwind | Styling |
-| Redux Toolkit | State management |
+| Tailwind | Styling |
 
 ### Backend
 | Technology | Purpose |
